@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author batta
+ *
+ */
+module world {
+}
